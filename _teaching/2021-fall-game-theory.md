@@ -1,7 +1,7 @@
 ---
 title: "ECON 4340/7340: Introduction to Game Theory"
 collection: teaching
-type: "Graduate course"
+type: "TA"
 permalink: /teaching/2021-fall-game-theory
 venue: "Department of Economics, University of Missouri-Columbia"
 date: 2021-08-22

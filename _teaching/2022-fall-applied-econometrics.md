@@ -1,7 +1,7 @@
 ---
 title: "ECON 8473: Applied Econometrics"
 collection: teaching
-type: "graduate course"
+type: "TA"
 permalink: /teaching/2022-fall-applied-econometrics
 venue: "Department of Economics, University of Missouri-Columbia"
 date: 2022-08-22
