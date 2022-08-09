@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* PhD in Economics, Minor in Statistics, University of Missouri-Columbia, 2018 (expected)
+* MA in Economics, University of Texas at Austin, 2020
+* MSc in Finance (Asset Pricing), King's College London, 2018
+* BSc in Accounting, Beijing Language and Culture University, 2017
 
 Work experience
 ======
