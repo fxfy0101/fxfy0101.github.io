@@ -12,31 +12,29 @@ redirect_from:
 Education
 ======
 
-* PhD in Economics, Minor in Statistics, University of Missouri-Columbia, 2018 (expected)
+* PhD in Economics, Minor in Statistics, University of Missouri-Columbia, 2025 (expected)
 * MA in Economics, University of Texas at Austin, 2020
 * MSc in Finance (Asset Pricing), King's College London, 2018
 * BSc in Accounting, Beijing Language and Culture University, 2017
 
-Work experience
+Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: R, Python, Stata, Matlab, C++
+* LaTeX, Microsoft Office
+
+Languages:
+======
+
+* Chinese (native)
+* English (fluent)
+* Japanese (basic)
+* Korean (basic)
 
 Publications
 ======
@@ -50,12 +48,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
