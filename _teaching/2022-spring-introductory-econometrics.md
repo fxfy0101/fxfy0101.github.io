@@ -8,4 +8,4 @@ date: 2022-01-18
 location: "Columbia MO"
 ---
 
-This is a cross listed introductory econometrics course for both undergradduate and graduate students. 
+This is a cross listed introductory econometrics course for both undergradduate and graduate students.
